@@ -1,0 +1,10 @@
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\obj\Debug\laibaWindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\obj\Debug\laibaWindowsFormsApp1.Form1.resources
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\obj\Debug\laibaWindowsFormsApp1.Properties.Resources.resources
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\obj\Debug\laibaWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\obj\Debug\laibaWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\bin\Debug\laibaWindowsFormsApp1.exe.config
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\bin\Debug\laibaWindowsFormsApp1.exe
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\bin\Debug\laibaWindowsFormsApp1.pdb
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\obj\Debug\laibaWindowsFormsApp1.exe
+C:\Users\Rashid\source\repos\laibaWindowsFormsApp1\obj\Debug\laibaWindowsFormsApp1.pdb

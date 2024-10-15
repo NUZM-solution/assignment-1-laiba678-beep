@@ -1,0 +1,16 @@
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\bin\Debug\net8.0-windows\Laiba's Table.exe
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\bin\Debug\net8.0-windows\Laiba's Table.deps.json
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\bin\Debug\net8.0-windows\Laiba's Table.runtimeconfig.json
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\bin\Debug\net8.0-windows\Laiba's Table.dll
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\bin\Debug\net8.0-windows\Laiba's Table.pdb
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\LaibaYounasForm.resources
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.csproj.GenerateResource.cache
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.AssemblyInfoInputs.cache
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.AssemblyInfo.cs
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.csproj.CoreCompileInputs.cache
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.dll
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\refint\Laiba's Table.dll
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.pdb
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\Laiba's Table.genruntimeconfig.cache
+C:\Users\huzai\source\repos\Laiba's Table\Laiba's Table\obj\Debug\net8.0-windows\ref\Laiba's Table.dll
